@@ -22,7 +22,7 @@ document.addEventListener("DOMContentLoaded", function () {
   var app = new Vue({
     el: '#app',
     data: {
-      message: 'Hello Vue!'
+      message: 'Holy Moly!'
     }
   })
 })
